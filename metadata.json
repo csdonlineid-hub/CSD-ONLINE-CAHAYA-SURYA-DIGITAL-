@@ -1,0 +1,7 @@
+{
+  "name": "CASA - CSD ONLINE Artificial Smart Assistant",
+  "description": "Duta online bertenaga AI yang menawarkan dukungan suara dan teks real-time untuk CSD Online.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
